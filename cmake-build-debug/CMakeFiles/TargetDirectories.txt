@@ -1,0 +1,3 @@
+C:/Users/rolf/CLionProjects/sattleitegui/cmake-build-debug/CMakeFiles/sattelitegui.dir
+C:/Users/rolf/CLionProjects/sattleitegui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rolf/CLionProjects/sattleitegui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
